@@ -1,7 +1,7 @@
 package by.grodno.java.zagart.test;
 
 /**
- * Created by Программирование on 05.05.2016.
+ * Created by Zagart on 05.05.2016.
  */
 public class Main {
 
